@@ -6,10 +6,15 @@ attribute_data = {
     "ik_color": {"type": "float3", "keyable": False},
     "children": {"type": "message"},
     "parent": {"type": "message"},
-    "node_description": {"type": "string"}
+    "node_description": {"type": "string"},
+    "user_matrix": {"type": "matrix"}
 }
 
 attribute_value_data = {
     "is_color": (1, 0, 0),
-    "node_description": "이 노드는 network node입니다."
+    "node_description": "이 노드는 network node입니다.",
+    "user_matrix": [1, 0, 0, 0,
+                    0, 1, 0, 0,
+                    0, 0, 1, 0,
+                    0, 0, 0, 1]
 }
