@@ -1,1 +1,0 @@
-[![함수 작성](https://img.youtube.com/vi/rbWSTXBYNFA/0.jpg)](https://www.youtube.com/watch?v=rbWSTXBYNFA)
