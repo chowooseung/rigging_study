@@ -7,7 +7,7 @@ https://softwareengineering.stackexchange.com/questions/196706/creating-a-coding
 추후에 논의.
 
 
-[![소신있는코딩](https://img.youtu.com/vi/-MG4orjA-IM/0.jpg)](https://youtu.be/-MG4orjA-IM)
+[![소신있는코딩](https://img.youtu.com/vi/MG4orjA-IM/0.jpg)](https://youtu.be/-MG4orjA-IM)
 
 코딩스탠다드 예.
 
