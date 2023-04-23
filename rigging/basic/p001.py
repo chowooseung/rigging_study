@@ -1,0 +1,1 @@
+"""p000 의 리깅을 guide, skin, PSD 데이터를 각각 저장하고 mgear의 custom script로 한번에 build 해보기"""
