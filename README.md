@@ -18,4 +18,4 @@ https://softwareengineering.stackexchange.com/questions/196706/creating-a-coding
 
 ---
 
-PEP8 규칙으로 코드를 작성합니다. 이것에 대해 chatgpt에게 물어봅시다.
+PEP8 style로 코드를 작성합니다. 이것에 대해 chatgpt에게 물어봅시다.
